@@ -8,7 +8,7 @@ or on Itch.io [HERE](https://kolibrie.itch.io/humanitys-last-stand)
 We had 10 days to Create a game with the theme: Last Stand! 
 I Chose to use Unity, C# and Visual studio to create my game. 
 
-the jam hat the following rules:
+The jam haD the following rules:
 - Games must be submitted by June 3rd, the end of the game jam.
 - You can build a game solo or with a team. If you're on a team, one person is the designated uploader, and the max team limit size is 6 people.
 - Free assets only! Using paid assets is NOT allowed, but free assets and those under an open source licenses like CC0 are allowed. Note: this doesn't include paid assets that you got for free, only freely available assets are allowed.
