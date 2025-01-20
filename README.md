@@ -4,6 +4,7 @@ This is a game that I have made as a submission to the [GameDevTV Game Jam 2024]
 
 You can play the game [HERE](https://piet-de-leeuw.github.io/Humanitys-Last-Stand/)
 or on Itch.io [HERE](https://kolibrie.itch.io/humanitys-last-stand)
+[See Source Code](Scripts)
 
 We had 10 days to Create a game with the theme: Last Stand!
 I Chose to use Unity, C# and Visual studio to create my game.
